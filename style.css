@@ -2,10 +2,15 @@
   width: 1170px;
   height: 100%;
   display: flex;
-  justify-content: center;
+  text-align: center;
 }
 
-.Client {
+.restaurateur {
+  width: 50%;
+}
+
+.client {
+  width: 50%;
   background-color: #4FC73A;
 }
 
